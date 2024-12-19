@@ -1,6 +1,5 @@
 # Gaussian Splat Three Example
 
-<img src="./preview/preview.png" width="250px"/>
 
 ## Parcel Bootstrap Project
 
